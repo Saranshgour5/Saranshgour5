@@ -1,6 +1,6 @@
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a programmer, mostly solving algorithmic problems. </samp></h4>
 <p align="center">
-  <img width="250" src="[https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif](https://media.tenor.com/DoGbITpEzHUAAAAC/terrified-patrick-star.gif)">
+  <img width="250" src="https://media.tenor.com/DoGbITpEzHUAAAAC/terrified-patrick-star.gif">
 </p>
 <!--
 **Saranshgour5/Saranshgour5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
