@@ -1,4 +1,4 @@
-### Hi I'm ssaranshh13 👋
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Competitive programmer. I code in C++ and i also play chess </samp></h4>
 
 <!--
 **Saranshgour5/Saranshgour5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
