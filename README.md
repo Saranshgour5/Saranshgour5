@@ -1,28 +1,28 @@
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a programmer, mostly solving algorithmic problems. </samp></h4>
-<p align="center">
-  <img width="250" src="https://media.tenor.com/DoGbITpEzHUAAAAC/terrified-patrick-star.gif">
-</p>
-<!-- <p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
-</p> -->
+<h2 align="center"><samp> Hi there👋🏾, I'm Saransh</samp></h2>
 
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
-<!--
-**Saranshgour5/Saranshgour5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on - Express | MongoDB
+- 🌱 I’m currently learning - Go and Redis
+- 💬 Ask me about - Competitve Programming | Chess
+- 📫 How to reach me- saranshgour5@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Profile Views -->
+<p align="left"> <img 
+src="https://komarev.com/ghpvc/?username=Saranshgour5&label=PROFILE%20VIEWS&color=0e75b6&style=flat" 
+alt="Saranshgour5" /> </p>
+
+<!--Github Stats-->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saranshgour5&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<!--Most used languages-->
+![Saransh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saranshgour5&layout=compact&show_icons=true)
+
+<!-- Streak -->
+<!-- 
+<p><img align="center" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=Saranshgour5&" 
+alt="Saranshgour5" /></p> 
 -->
+
+<p align="center"><samp>Check out my repos ⬇️  </samp></p>
+
